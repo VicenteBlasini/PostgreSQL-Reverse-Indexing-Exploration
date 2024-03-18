@@ -30,3 +30,6 @@ To understand reverse indexing with PostgreSQL, follow these steps:
 ## Contributions
 Contributions to this repository are welcome! If you have suggestions for improvements or new features related to reverse indexing or PostgreSQL, feel free to open an issue or submit a pull request.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
